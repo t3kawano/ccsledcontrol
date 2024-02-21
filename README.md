@@ -56,5 +56,5 @@ You can run this program without actual device. Under such situation, it will ru
 ## Reference
 Kawano, Taizo et al. “ER proteostasis regulators cell-non-autonomously control sleep.” Cell reports vol. 42,3 (2023): 112267. doi: 10.1016/j.celrep.2023.112267
 
-## Licence
+## License
 MPL-2.0
