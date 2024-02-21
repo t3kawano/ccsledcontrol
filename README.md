@@ -18,7 +18,7 @@ The PC laptop sould not connected to the network and set the IP address of the P
 In short; 
 
 PC IP; 192.168.0.16
-subnet musk; 255.255.255.0
+subnet mask; 255.255.255.0
 
 CCS controller IP; 192.168.000.2
 
