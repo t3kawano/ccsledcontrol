@@ -1,5 +1,6 @@
 # CCS LED controller
-![alt text](led_controller_gui.png)
+
+<img src = "led_controller_gui.png" width=50%>
 
 ## Overview
 This program turn on/off LED light connected to CCS's controller https://www.ccs-inc.co.jp/products/model/3308.
